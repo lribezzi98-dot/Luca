@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Shuttle Booking Manager",
+  "description": "A comprehensive management system for booking evening event shuttles. Administrators can set up events, manage capacity, and view bookings. Users can register, book their spot, and receive a unique QR code for check-in. The system includes QR code scanning for shuttle managers and data export functionalities for administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
